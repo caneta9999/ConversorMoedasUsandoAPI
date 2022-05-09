@@ -1,4 +1,5 @@
 # UsandoPython-Projetos
+A ideia do repositório é armazenar alguns projetos criados para estudo de Python.
 | Nome | Foco | Comentário adicional |
 |---|---|---|
 | BarChartRace | Biblioteca bar_chart_race <br>e POO | Bar Chart Race - Dexplo.org - https://www.dexplo.org/bar_chart_race/ |
